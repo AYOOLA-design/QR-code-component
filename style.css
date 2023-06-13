@@ -1,0 +1,56 @@
+.body {
+
+    font-size: 15px;
+    
+    
+   
+}
+
+
+@media (min-width: 375px) and (max-width: 1440px) {
+    body {
+      background-color: lightsalmon;
+    }
+}
+
+.attribution {
+    font-size: 15px; text-align: center;
+    color: hsl(228, 45%, 44%);
+    background-color:hsl(212, 45%, 89%);
+    padding: 50px 50px 50px 50px;
+
+
+
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    
+
+
+
+   
+    
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+
+    
+
+    
+
+
+}
+
+.img {
+    
+    border: 10px solid white;
+    width: 90%;
+    padding: 10px;
+
+}
+
+    
+    
+
+
+
+
